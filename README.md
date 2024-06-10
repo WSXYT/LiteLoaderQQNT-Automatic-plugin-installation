@@ -1,7 +1,6 @@
 # LiteLoaderQQNT-Automatic-plugin-installation
 自动化安装LiteLoaderQQNT的插件，弥补了官方安装器关闭的事实
-<br>⚠当前正处于测试阶段，收录正在完善⚠
-<br>当前没有自动更新程序（当然，安装列表和安装链接是自动更新的）请在发现问题后更新版本
+
 <br>
 <br>使用教程：
 <br>
