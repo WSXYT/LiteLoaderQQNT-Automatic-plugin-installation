@@ -1,0 +1,2 @@
+# LiteLoaderQQNT-Automatic-plugin-installation
+自动化安装LiteLoaderQQNT的插件，弥补了官方安装器关闭是事实
